@@ -1,0 +1,19 @@
+{
+  "name": "mongodbtest",
+  "version": "1.0.0",
+  "description": "testong of mongodb to IoT",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^2.2.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/umesh8joshi/nodejs_examples.git"
+  },
+  "author": "Umesh8Joshi",
+  "license": "ISC"
+}

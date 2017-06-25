@@ -1,0 +1,22 @@
+{
+  "name": "nom_examples",
+  "version": "1.0.2",
+  "description": "Simple programs to understad npm",
+  "main": "index.js",
+  "dependencies": {
+    "upper-case": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/nodejs_examples.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Umesh8Joshi",
+  "license": "ISC"
+}
